@@ -1,6 +1,7 @@
 ## Hi, I'm Harshpreet 👋
 
 👨🏿‍🎓 I'm a Developer and an aspiring Software Engineer. I'm currently studying Computing at the University of Greenwich. 
+
 💭 I am continually learning more about software engineering, specialising in back-end development but always eager to explore front-end technologies and acquire knowledge in both areas.<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
