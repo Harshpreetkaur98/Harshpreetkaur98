@@ -4,6 +4,9 @@
 
 💭 I am continually learning more about software engineering, specialising in back-end development but always eager to explore front-end technologies and acquire knowledge in both areas.<br/>
 
+
+<strong>Contact me</strong> on my [LinkedIn]([https://www.linkedin.com/in/samuele-da-mar/](https://www.linkedin.com/in/harshpreet-kaur-2b9984258/)).
+
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 
 
