@@ -29,4 +29,4 @@
 
 
 
-![](https://readme-typing-svg.herokuapp.com/?lines=💥Full%20Stack%20Developer;💥Backend%20Developer;✨Python%20Developer✨;I%20love%20coding;✨Backend%20Engineer✨;✨Frontend%20Expert✨;✨Django%20Master✨;🏆Professional%20coding%20experience🏆;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
+![](https://readme-typing-svg.herokuapp.com/?lines=💥Aspiring%20Software%20Engineer;I%20love%20coding;✨Frontend%20Expert✨;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
