@@ -31,6 +31,6 @@
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
-  Languages Used
+    <h2>Languages 📊</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshpreetKaur98&layout=compact&theme=radical" alt="Top Languages" />
 </div>
