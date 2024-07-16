@@ -25,3 +25,8 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+
+
+
+![](https://readme-typing-svg.herokuapp.com/?lines=💥Full%20Stack%20Developer;💥Backend%20Developer;✨Python%20Developer✨;I%20love%20coding;✨Backend%20Engineer✨;✨Frontend%20Expert✨;✨Django%20Master✨;🏆Professional%20coding%20experience🏆;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
