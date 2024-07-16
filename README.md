@@ -33,7 +33,6 @@
 ## 📊 GitHub Stats
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Harshpreet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshpreetKaur98&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshpreetKaur98&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshpreetKaur98&theme=radical)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshpreetKaur98&layout=compact&theme=radical" alt="Top Languages" />
+</div>
