@@ -1,15 +1,17 @@
-## Hi, I'm Harshpreet 👋
+# Hi, I'm Harshpreet 👋
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=💥Aspiring%20Software%20Engineer💥;I%20love%20coding❤️✨;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45)
 
 👨🏿‍🎓 I'm a Developer and an aspiring Software Engineer. I'm currently studying Computing at the University of Greenwich. 
 
-💭 I am continually learning more about software engineering, specialising in back-end development but always eager to explore front-end technologies and acquire knowledge in both areas.<br/>
+💭 I am continually learning more about software engineering, specializing in back-end development but always eager to explore front-end technologies and acquire knowledge in both areas.
 
-<strong>Contact me</strong> on my [LinkedIn](https://www.linkedin.com/in/harshpreet-kaur-2b9984258/).
+📫 <strong>Contact me</strong> on my [LinkedIn](https://www.linkedin.com/in/harshpreet-kaur-2b9984258/).
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+---
 
+## 💻 Tech Stack
 
-# 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
@@ -26,8 +28,12 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshpreetKaur98&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshpreetKaur98&layout=compact&theme=radical)
+## 📊 GitHub Stats
 
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![Harshpreet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshpreetKaur98&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshpreetKaur98&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshpreetKaur98&theme=radical)
 
-![](https://readme-typing-svg.herokuapp.com/?lines=💥Aspiring%20Software%20Engineer💥;I%20love%20coding❤️✨;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
