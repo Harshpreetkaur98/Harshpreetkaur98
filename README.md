@@ -29,4 +29,4 @@
 
 
 
-![](https://readme-typing-svg.herokuapp.com/?lines=💥Aspiring%20Software%20Engineer;I%20love%20coding;✨Frontend%20Expert✨;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
+![](https://readme-typing-svg.herokuapp.com/?lines=💥Aspiring%20Software%20Engineer💥;I%20love%20coding❤️✨;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
