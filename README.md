@@ -28,11 +28,9 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
----
-
-## 📊 GitHub Stats
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
+  Languages Used
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshpreetKaur98&layout=compact&theme=radical" alt="Top Languages" />
 </div>
