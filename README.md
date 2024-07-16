@@ -27,7 +27,9 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-![Harshpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshpreetKaur98&show_icons=true&theme=radical)
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshpreetKaur98&theme=vue)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshpreetKaur98&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshpreetKaur98&layout=compact&theme=radical)
 
 
 ![](https://readme-typing-svg.herokuapp.com/?lines=💥Aspiring%20Software%20Engineer💥;I%20love%20coding❤️✨;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
