@@ -1,8 +1,3 @@
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Harshpreetkaur98&label=Profile%20views&color=0e75b6&style=flat" alt="Chang" /> 
-</p>
-
-
 # Hi, I'm Harshpreet 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=💥Aspiring%20Software%20Engineer💥;I%20love%20coding❤️✨;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45)
