@@ -1,5 +1,11 @@
 # Hi, I'm Harshpreet 👋
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Harshpreetkaur98&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Harshpreetkaur98&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshpreetkaur98&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=💥Aspiring%20Software%20Engineer💥;I%20love%20coding❤️✨;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45)
 
 👨🏿‍🎓 I'm a Developer and an aspiring Software Engineer. I'm currently studying Computing at the University of Greenwich. 
